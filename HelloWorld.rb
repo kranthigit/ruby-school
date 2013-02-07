@@ -1,6 +1,4 @@
 # My first program.
-# Print hello world, pre fixed with Numbers and :
+# Print hello world.
 
-for ss in 0...10
-  print ss, ":", "Hello", " \n";
-end
+print "Hello World \n"
