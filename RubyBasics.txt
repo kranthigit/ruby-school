@@ -1,0 +1,13 @@
+Welcome to Ruby!.
+
+Basic About ruby:
+
+ Ruby is a object oriented program. every this is an object, including onjects, instance, menthods.. etc.
+
+Varibales
+
+  We can declare varaiables in the following manner.
+  
+     $ is used to declare variable globely. Which can be used by all the Methods, class or insitances.
+     @@ is used to declare variable in a class, This can be used by that class or/and the instances under that class.
+     @ is used to declare variable in a instance. This variable can be used in that instances only.
